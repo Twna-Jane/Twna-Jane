@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Twna-Jane
-- 👀 I’m interested in software engeneering
+- 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning computer science
 
 
