@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Twna-Jane
+- 👋 Hi, I’m Tiffany Jane Waithira Ndungi
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning computer science
 
