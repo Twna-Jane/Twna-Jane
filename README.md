@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tiffany Jane Waithira Ndungi
-- 👀 I’m interested in Data Science.
-- 🌱 Computer science Graduate
+- 👀 I’m interested in Data Science and Software Development
+
 
 
 <!---
